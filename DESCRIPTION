@@ -1,0 +1,30 @@
+Package: HAFSWW
+Title: War game win rate analyser
+Version: 0.0.0.9000
+Authors@R: person('Rational', 'Inquiry', email = 'gisof87506@lewenbo.com', role = c('cre', 'aut'))
+Description: PKG_DESC.
+License: What license is it under?
+Imports: 
+    config (>= 0.3.1),
+    dplyr,
+    DT,
+    ggplot2,
+    golem (>= 0.3.5),
+    magrittr,
+    modelr,
+    pkgload,
+    plotly,
+    readxl,
+    rstan,
+    rstanarm,
+    shiny (>= 1.7.4),
+    shinycssloaders,
+    shinydashboard,
+    shinydashboardPlus,
+    shinyFeedback,
+    StanHeaders,
+    tidybayes,
+    tidyr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
